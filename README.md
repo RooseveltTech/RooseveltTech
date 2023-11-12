@@ -6,11 +6,11 @@
 ```python
 def RooseveltAbandy():
     pronouns = "he" | "him"
-    location = ["lagos, ng"]
-    contact = ["rooseveltabandy@gmail.com"]
-    portfolio = ["https://www.linkedin.com/in/rooseveltabandy"]
-    workingOn = ["building a solid career in the softwaare engineering field here in my country..."]
-    learning = ["systems programming", "cloud technologies", "django", "devOps"]
+    location = "lagos, ng"
+    contact = "rooseveltabandy@gmail.com"
+    portfolio = "https://www.linkedin.com/in/rooseveltabandy"
+    workingOn = "building a solid career in the software engineering field here in my country..."
+    learning = "everything"
     askMeAbout = ["emerging trends", "software development", "power platform", "database", 
                 "tech", "music", "Windows", "Linux", "Apple"],
     hobbies = {
