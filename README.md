@@ -6,12 +6,12 @@
 ```python
 def RooseveltAbandy():
     pronouns = "he" | "him"
-    location = "lagos, ng"
+    location = "Lagos, NG"
     contact = "rooseveltabandy@gmail.com"
     portfolio = "https://www.linkedin.com/in/rooseveltabandy"
     workingOn = "building a solid career in the software engineering field here in my country..."
     learning = "everything"
-    askMeAbout = ["emerging trends", "software development", "power platform", "database", 
+    askMeAbout = ["emerging trends", "python", "AI", "Django", "software development", "power platform", "database", 
                 "tech", "music", "Windows", "Linux", "Apple"],
     hobbies = {
         "major": {
@@ -19,7 +19,7 @@ def RooseveltAbandy():
       "outdoor": ["traveling", "playing soccer"],
         },
         "funFact" : {
-            "secret" : ["I love plantain", "dogs"],
+            "secret" : ["dogs","cats"],
         }        
     }
 ```
